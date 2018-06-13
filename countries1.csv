@@ -1,0 +1,238 @@
+id,institute,total,country
+38,Queensland University of Technology,3,Australia
+45,University of Melbourne,3,Australia
+61,RMIT University,2,Australia
+65,The University of Melbourne,2,Australia
+212,University of South Australia,1,Australia
+217,University of Technology Sydney,1,Australia
+83,Vienna University of Technology,2,Austria
+106,Graz University of Technology,1,Austria
+182,University of Applied Sciences,1,Austria
+220,University of Vienna,1,Austria
+90,Bangladesh University of Engineering and Technology,1,Bangladesh
+125,Meaningful Interactions Lab ,1,Belgium
+18,University of Saskatchewan,5,Canada
+20,University of Waterloo,5,Canada
+25,Simon Fraser University,4,Canada
+27,University of British Columbia,4,Canada
+47,University of Toronto,3,Canada
+48,Carleton University,2,Canada
+71,University of Calgary,2,Canada
+98,"Dalhousie University""",1,Canada
+100,Department of Computer Science,1,Canada
+124,McGill University,1,Canada
+148,Queen's University,1,Canada
+201,University of Manitoba,1,Canada
+205,University of New Brunswick,1,Canada
+206,University of Ontario Institute of Technology,1,Canada
+14,Tsinghua University,7,China
+96,Chinese Academy of Sciences,1,China
+238,Zhejiang University,1,China
+17,University of Copenhagen,5,Denmark
+32,Aarhus University,3,Denmark
+85,Aalborg University,1,Denmark
+155,STRA-City,1,Egypt
+11,Aalto University,6,Finland
+78,University of Tampere,2,Finland
+86,Aalto University Espoo,1,Finland
+108,Helsinki Institute,1,Finland
+198,University of Lapland,1,Finland
+54,Inria,2,France
+68,University Grenoble Alpes,2,France
+79,University of Toulouse,2,France
+176,UniversitÃ© de Lille,1,France
+177,Université de Bordeaux,1,France
+178,Université Paris-Saclay,1,France
+199,University of Lille,1,France
+200,University of Lisboa,1,France
+208,University of Paris-Sud,1,France
+210,University of Rennes,1,France
+225,University Paris Saclay,1,France
+19,University of Stuttgart,5,Germany
+30,University of Siegen,4,Germany
+35,Hasso Plattner Institute,3,Germany
+43,University of Hannover,3,Germany
+67,Ulm University,2,Germany
+69,University of Bremen,2,Germany
+73,University of Konstanz,2,Germany
+84,Aachen University,1,Germany
+91,Bauhaus-Universitaet Weimar,1,Germany
+97,Coburg University,1,Germany
+103,echnische Universitat Dresden,1,Germany
+117,Institute of Mediainformatics,1,Germany
+119,Jacobs Institute,1,Germany
+126,Media Informatics Group,1,Germany
+139,Obiquitous Interactive Systems Group ,1,Germany
+140,OFFIS Institute for Informatics ,1,Germany
+151,Saarland University,1,Germany
+159,Technical University Dresden,1,Germany
+160,Technical University Munich,1,Germany
+161,Technische Universitat Darmstadt,1,Germany
+169,TU Braunschweig,1,Germany
+170,Ubiquitous Interactive Systems Group,1,Germany
+189,University of Cologne,1,Germany
+192,University of Duisburg-Essen,1,Germany
+203,University of Munich,1,Germany
+219,University of Tubingen,1,Germany
+64,The University of Hong Kong,2,Hong Kong
+110,Hong Kong Polytechnic University,1,Hong Kong
+111,Hong Kong University of Science and Technology,1,Hong Kong
+113,Indian Institute of Management,1,India
+114,Indian Institute of Technology,1,India
+146,Precog,1,India
+224,University Padova,1,Italy
+31,University of Tsukuba,4,Japan
+55,Keio University,2,Japan
+56,Kochi University of Technology,2,Japan
+120,KDDI Research Inc,1,Japan
+122,Kyushu Uniersity,1,Japan
+127,Meiji University,1,Japan
+137,NTT Communication Science Laboratories,1,Japan
+154,SonyCSL,1,Japan
+168,The University of Tokyo,1,Japan
+218,University of Tokyo,1,Japan
+236,Yamaguchi University,1,Japan
+237,Yamaha Corporation,1,Japan
+80,University of Twente,2,Netherlands
+87,Amsterdam University of Applied Sciences,1,Netherlands
+104,Eindhoven University of Technology ,1,Netherlands
+144,Philips Design,1,Netherlands
+230,Utrecht University,1,Netherlands
+187,University of Canterbury,1,New Zealand
+216,University of Suceava,1,Romania
+134,National Research University Higher School of Economics,1,Russia
+42,University of Dundee,3,Scotland
+109,Heriot-Watt University ,1,Scotland
+36,National University of Singapore,3,Singapore
+72,University of Cape Town,2,South Africa
+22,KAIST,4,South Korea
+24,Seoul National University,4,South Korea
+101,Department of Industrial Design,1,South Korea
+112,Human Factors Engineering,1,South Korea
+175,UNIST,1,South Korea
+149,Research Center,1,Spain
+179,University Carlos Madrid,1,Spain
+226,University Pompeu Fabra,1,Spain
+227,University Pompeu Fabra Barcelona,1,Spain
+39,Stockholm University,3,Sweden
+57,KTH Royal Institute of Technology,2,Sweden
+150,Royal Institute of Technology,1,Sweden
+153,Södertörn University,1,Sweden
+195,University of Gothenberg,1,Sweden
+215,University of Stockholm,1,Sweden
+228,Uppsala University,1,Sweden
+82,University of Zurich,2,Switzerland
+88,Artanim Foundation,1,Switzerland
+123,LSRO,1,Switzerland
+183,University of Basel,1,Switzerland
+194,University of Fribourg,1,Switzerland
+135,National Tsing Hua University,1,Taiwan
+121,Khalifa University,1,UAE
+2,Newcastle University,19,UK
+13,Northumbria University,6,UK
+15,University of London,6,UK
+23,Lancaster University,4,UK
+26,University College London,4,UK
+28,University of Glasgow,4,UK
+29,University of Nottingham,4,UK
+46,University of Sussex,3,UK
+70,University of Bristol,2,UK
+76,University of Oxford,2,UK
+115,Informatics King's College London,1,UK
+118,Interaction Centre,1,UK
+131,Microsoft Research Cambridge,1,UK
+147,QMUL,1,UK
+156,Swansea University,1,UK
+166,The University of Nottingham,1,UK
+180,University College of London ,1,UK
+181,University of Andrews,1,UK
+184,University of Birmingham,1,UK
+186,University of Cambridge,1,UK
+193,University of Edinburgh,1,UK
+211,University of Sheffield,1,UK
+213,University of Southampton,1,UK
+214,University of St Andrews,1,UK
+221,University of Warwick,1,UK
+1,Microsoft Research,19,USA
+3,Cornell University,15,USA
+4,University of Maryland,13,USA
+5,Stanford University,12,USA
+6,University of Michigan,11,USA
+7,University of Washington,11,USA
+8,Georgia Institute of Technology,10,USA
+9,Northwestern University,8,USA
+10,University of California,7,USA
+12,Indiana University Bloomington,6,USA
+16,MIT,5,USA
+21,Indiana University,4,USA
+33,Arizona State University,3,USA
+34,Georgia Tech,3,USA
+37,Purdue University,3,USA
+40,Syracuse University,3,USA
+41,University of California San Diego,3,USA
+44,University of Illinois,3,USA
+49,Columbia University,2,USA
+50,DePaul University,2,USA
+51,Google,2,USA
+52,Human-Computer Interaction Institute,2,USA
+53,IBM Research,2,USA
+58,Massachusetts Institute of Technology,2,USA
+59,Northeastern University,2,USA
+60,Oregon State University,2,USA
+62,Rutgers University,2,USA
+63,School of Interactive Computing and GVU Center,2,USA
+66,UC Berkeley,2,USA
+74,University of Minnesota,2,USA
+75,University of North Carolina at Chapel Hill,2,USA
+77,University of Pittsburgh,2,USA
+81,University of Wisconsin–Madison,2,USA
+92,Brigham Young University,1,USA
+93,Bucknell University,1,USA
+94,California College of the Arts,1,USA
+95,Carnegie Mellon Uniersity,1,USA
+99,Dartmouth College,1,USA
+102,Design Lab ,1,USA
+105,Gettysburg College,1,USA
+107,Harvard University,1,USA
+116,Information Science University of Colorado Boulder,1,USA
+128,Michigan State University,1,USA
+129,Michigan Technological University,1,USA
+130,Microsoft,1,USA
+132,MIT CSAIL,1,USA
+133,National Center Healthcare,1,USA
+136,New York University,1,USA
+138,Oberlin College,1,USA
+141,Pacific Northwest National Laboratory,1,USA
+142,Palo Alto Research Center,1,USA
+143,Pennsylvania State University,1,USA
+145,Portland State University,1,USA
+157,Syracuase University,1,USA
+158,Tableau Software,1,USA
+162,Texas A&M University ,1,USA
+163,The Information School DUB Group,1,USA
+164,The University of Iowa,1,USA
+165,The University of North Carolia,1,USA
+167,The University of Texas,1,USA
+171,UC Irvine,1,USA
+172,UC Santa Barbara,1,USA
+173,UN Global Pulse,1,USA
+174,Unibersity of California San Diego,1,USA
+185,University of California Irvine,1,USA
+188,University Of Central Florida,1,USA
+190,University of Colorado ,1,USA
+191,University of Colorado Boulder,1,USA
+196,University of Houston,1,USA
+197,University of Iowa,1,USA
+202,University of Memphis,1,USA
+204,University of Nevada,1,USA
+207,"University of Oregon""",1,USA
+209,University of Pennsylvania,1,USA
+222,University of Washington Seattle,1,USA
+223,University of York,1,USA
+229,Utah State University,1,USA
+231,Washington University in St. Louis,1,USA
+232,Western Illinois University ,1,USA
+233,Wichita State University ,1,USA
+234,Yahoo ,1,USA
+235,Yahoo Research,1,USA
+89,Autodesk Research,1,

@@ -1,0 +1,80 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+      <style>
+          {font-family: "Helvetica Neue";}
+          p,text{
+              font-size: 0.85em;
+          }
+          svg{
+              background: white;
+              border-style:ridge;
+              
+              margin-left: 50px;
+              margin-top: 10px;
+          }
+          #institute-info{
+              color:#666;
+              font-size:28px;
+              position:absolute;
+              top:160px;
+              left:920px;
+               }
+          #combine{
+              color:#666;
+              font-size:20px;
+              font-family: serif;
+              position:absolute;
+              top:128px;
+              left:60px;
+              
+               }
+          #country{
+              color:#666;
+              font-size:20px;
+               font-family: serif;
+              position:absolute;
+              top:128px;
+              left:150px;
+               }
+          #header{
+              padding: 20px;
+              font-family: monospace;
+              font-size: 30px;
+              text-align: center;
+              color: crimson;
+              
+              
+          }
+          div.tooltip {	
+    position: absolute;			
+    text-align: center;			
+    width: 200px;					
+    height: 50px;					
+    padding: 5px;				
+    font: 15px sans-serif;		
+    background: lightsteelblue;	
+    border: 0px;		
+    border-radius: 8px;			
+    pointer-events: none;			
+}
+
+
+      
+      </style>
+      
+     
+  </head>
+     <body>
+        <h1 id="header">Institution that participated in HCI 2017</h1>
+         <button id="combine">Combine</button>
+          <button id="country">Country Split</button>
+         <div id="institute-info"></div>
+         <div id="chart"></div>
+    
+         <script src="https://d3js.org/d3.v4.min.js"></script>
+         <script src="https://d3js.org/d3-queue.v3.min.js"></script>
+        <script src="dataviz.js"></script>    
+    </body>
+</html>
